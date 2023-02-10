@@ -1,2 +1,2 @@
 # picture-bed
-## 通过GitHub+picGo+CDN搭建
+## 通过GitHub+PicGo+jsDelivr搭建
